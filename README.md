@@ -1,52 +1,203 @@
-# Hi there! 👋 I'm Eman Jameel
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Eman%20Jameel&fontSize=42&fontColor=e94560&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Security%20Engineer&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+AI+%26+Security+Enthusiast;Architecting+Federated+SSO+%26+RAG+Pipelines;Python+%7C+.NET+%7C+Node.js+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/Eman-2211"><img src="https://img.shields.io/badge/GitHub-Eman--2211-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emanjameel007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-emanjameel007-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Eman-Jameel/"><img src="https://img.shields.io/badge/LinkedIn-Eman--Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a CS student who loves building real systems — from federated identity architectures and AI-powered document search to data analytics engines and ML predictors. I work across the full stack with Python, .NET, Node.js, and modern AI tooling.
-
-- 🔭 Currently building **federated SSO systems** and **RAG pipelines**
-- 🔐 Architected a modern redirect-based federated SSO microservice system (IdP & SP pattern)
-- 🤖 Built a retrieval-augmented generation app with ChromaDB & Groq
-- 📊 Experienced in data analytics, visualization, and ML prediction
-- 📚 Avid reader who loves diving into new topics
-- 🎮 Gamer in my downtime &nbsp;|&nbsp; ⚽ Sports enthusiast
-- 💼 Open to collaboration and opportunities
-- 🧠 Interested in: **Security & Identity**, **AI / RAG Systems**, **Data Science**, **Web Development**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Architecting+Federated+SSO+%26+RAG+Pipelines;Building+Real+Systems+%E2%80%94+Not+Just+Demos;Python+%7C+C%2B%2B+%7C+Node.js+%7C+Always+Shipping" />
+</p>
 
 ---
 
-## ⭐ LATEST PROJECTS
+## 🧑‍💻 About Me
 
-| 🔐 **Redirect-Based Federated SSO** | 🤖 **AI RAG System** |
-|---|---|
-| **[SSO](https://github.com/Eman-2211/SSO)**<br/>A modern **Redirect-Based Federated Single Sign-On (SSO) Architecture** built for distributed microservice environments. Two decoupled microservices — **App 1 (Identity Provider / IdP)** running on Node.js/Express + MongoDB, and **App 2 (Service Provider / SP)** running on Express — implement centralized OAuth-style login redirections with secure JWT session validation.<br/><br/>🔹 Centralized IdP login redirect with dynamic `returnUrl` routing<br/>🔹 Loop-free account switching & session purging via `clearCache=true`<br/>🔹 HMAC SHA-256 signed JWT verification across decentralized microservices<br/>🔹 Interactive Architecture Portal with automated PowerShell startup<br/><br/>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | **[AI_RAG](https://github.com/Eman-2211/AI_RAG)**<br/>A retrieval-augmented generation app built around a local ChromaDB vector store, PDF ingestion, sentence-transformer embeddings, and Groq for answer generation. Load any PDF, index it into vector chunks, and ask natural language questions — the system retrieves the most relevant context and generates accurate answers via LLM.<br/><br/>🔹 PDF text extraction & overlapping chunk splitting<br/>🔹 Sentence-transformer embeddings stored in ChromaDB<br/>🔹 Cosine similarity retrieval for relevant context<br/>🔹 Groq LLM for final answer generation<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white) |
+I'm a CS student who builds **real systems** — from federated identity architectures and AI-powered document search to data analytics engines and game development. I work across the full stack with Python, C++, Node.js, and modern AI tooling.
 
----
-
-## 🔥 MORE PROJECTS
-
-| 📊 **[GDP-Analysis_Phase2](https://github.com/Eman-2211/GDP-Analysis_Phase2)** | 📈 **[Performance-Marketing-ROI-Predictor](https://github.com/Eman-2211/Performance-Marketing-ROI-Predictor)** |
-|---|---|
-| Phase 2 SDA Project — a Python-based data transformation and analytics engine for global GDP trends. Features data ingestion from CSV/JSON, ISO-based cleaning, and 7+ analytical tasks: top/bottom GDP rankings, growth rates, continent averages, global trend analysis, fastest growing continents, consistent decline detection, and GDP contribution breakdowns. Supports console and chart output via a plugin system. | ML-based performance marketing ROI prediction using Jupyter Notebooks. Analyzes marketing campaign data to predict return on investment, helping make data-driven budget allocation decisions. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-> 👉 See pinned repos below for live demos and code!
+```js
+const eman = {
+    currentlyBuilding: ["Federated SSO Systems", "RAG Pipelines", "Full-Stack Apps"],
+    techDomains:       ["Security & Identity", "AI / RAG", "Data Science", "Game Dev"],
+    languages:         ["Python", "C++", "JavaScript", "TypeScript", "C#", "SQL"],
+    funFact:           "I architect auth systems by day and build Tetris clones by night 🎮"
+};
+```
 
 ---
 
-## 🏆 HIGHLIGHTS
+## 🏗️ Featured Projects
 
-| 🔐 Security & Identity | 🤖 AI & RAG | 📊 Data Analytics | 📈 ML & Prediction |
-|---|---|---|---|
-| Architected a modern redirect-based federated SSO architecture with centralized IdP/SP routing and loop-free account switching | Built a full RAG pipeline — PDF to embeddings to LLM-powered answers | Engineered a GDP analytics engine with 7+ analytical modules & plugin-based output | Developed a marketing ROI predictor with Jupyter & ML |
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 [Federated SSO Architecture](https://github.com/Eman-2211/SSO)
+A production-grade **Redirect-Based Federated Single Sign-On** system for distributed microservices. Two decoupled apps — an **Identity Provider (IdP)** on Node.js/Express + MongoDB and a **Service Provider (SP)** — implement centralized OAuth-style login redirections with secure JWT session validation.
+
+**Key Engineering:**
+- Centralized IdP login redirect with dynamic `returnUrl` routing
+- Loop-free account switching & session purging via `clearCache=true`
+- HMAC SHA-256 signed JWT verification across decentralized microservices
+- Interactive Architecture Portal with automated PowerShell startup
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🤖 [AI RAG System](https://github.com/Eman-2211/AI_RAG)
+An end-to-end **Retrieval-Augmented Generation** app — upload any PDF, index it into vector chunks, and ask natural language questions. The system retrieves the most relevant context via cosine similarity and generates accurate answers through Groq's LLM.
+
+**Key Engineering:**
+- PDF text extraction & overlapping chunk splitting
+- Sentence-transformer embeddings stored in ChromaDB
+- Cosine similarity retrieval for relevant context injection
+- Groq LLM (Llama 3) for fact-grounded answer generation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GITHUB STATS
+## 🔥 More Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### 📊 [GDP Analytics Engine](https://github.com/Eman-2211/Modular-Orchestration-and-Dependency-Inversion-Phase-2)
+Python-based data transformation & analytics engine for global GDP trends. 7+ analytical modules with plugin-based console & chart output.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="33%">
+
+### 🎮 [Tetris-SFML](https://github.com/Eman-2211/Tetris-SFML)
+A classic Tetris game built **from scratch** in C++ using the SFML graphics library. Clean OOP design with distinct classes for grid, gameplay logic, and all 7 Tetromino block shapes.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
+
+</td>
+<td width="33%">
+
+### 📈 [Marketing ROI Predictor](https://github.com/Eman-2211/Performance-Marketing-ROI-Predictor)
+ML-based performance marketing ROI prediction. Analyzes campaign data to predict return on investment for data-driven budget allocation.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+### 🧠 [AI Labs — Spring 2026](https://github.com/Eman-2211/AI-Labs-Spring26)
+Jupyter Notebooks implementing various AI/ML concepts — Data Preprocessing, EDA, and Classical ML algorithms (Classification, Regression).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+<td width="33%">
+
+### ⚡ [RAG Chat Backend](https://github.com/Eman-2211/FAST_API)
+Production-style RAG API built with FastAPI, Groq, ChromaDB & Postgres. Features multi-turn conversations, server-side history, and grounded Q&A.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="33%">
+
+### 👑 [8-Queens Solver](https://github.com/Eman-2211/8_Queen)
+Classic N-Queens problem solver using backtracking algorithms. Demonstrates algorithmic thinking and constraint satisfaction.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+> 📌 **Pin your favorites!** Check out the pinned repos below for quick access.
+
+---
+
+## 🏆 What I Bring to the Table
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔐-Security-e94560?style=for-the-badge" /><br/>
+<sub>Federated SSO · JWT · IdP/SP · HMAC-SHA256</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖-AI%20%2F%20RAG-0f3460?style=for-the-badge" /><br/>
+<sub>RAG Pipelines · ChromaDB · Groq · Embeddings</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📊-Data%20Science-16213e?style=for-the-badge" /><br/>
+<sub>Pandas · Matplotlib · scikit-learn · EDA</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎮-Software%20Eng-1a1a2e?style=for-the-badge" /><br/>
+<sub>C++ · OOP · SFML · Full-Stack · Clean Architecture</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**AI & Data Science**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <picture>
@@ -78,15 +229,15 @@ I'm a CS student who loves building real systems — from federated identity arc
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Eman-2211&theme=dark&hide_border=true&ring=FF6E40&fire=FF6E40&currStreakLabel=FF6E40&currStreakNum=FF6E40&sideNums=FF6E40" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Eman-2211&theme=default&hide_border=true&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" />
-    <img src="https://streak-stats.demolab.com?user=Eman-2211&theme=dark&hide_border=true&ring=FF6E40&fire=FF6E40&currStreakLabel=FF6E40&currStreakNum=FF6E40&sideNums=FF6E40" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Eman-2211&theme=dark&hide_border=true&ring=E94560&fire=E94560&currStreakLabel=E94560&currStreakNum=E94560&sideNums=E94560" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Eman-2211&theme=default&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+    <img src="https://streak-stats.demolab.com?user=Eman-2211&theme=dark&hide_border=true&ring=E94560&fire=E94560&currStreakLabel=E94560&currStreakNum=E94560&sideNums=E94560" alt="GitHub Streak" />
   </picture>
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Eman-2211/Eman-2211/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -96,74 +247,14 @@ I'm a CS student who loves building real systems — from federated identity arc
 
 ---
 
-## 🛠 TECH STACK
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**AI & Data Science**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Databases & Backend Services**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Developer Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 📫 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://github.com/Eman-2211">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emanjameel007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/Eman-Jameel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eman-2211&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Eman-2211&color=e94560&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
 </p>
