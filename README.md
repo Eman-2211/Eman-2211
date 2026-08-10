@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Eman%20Jameel&fontSize=42&fontColor=e94560&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Security%20Engineer&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
-</p>
+# Hi there! 👋 I'm Eman Jameel
 
 <p align="center">
   <a href="https://github.com/Eman-2211"><img src="https://img.shields.io/badge/GitHub-Eman--2211-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -9,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Architecting+Federated+SSO+%26+RAG+Pipelines;Building+Real+Systems+%E2%80%94+Not+Just+Demos;Python+%7C+C%2B%2B+%7C+Node.js+%7C+Always+Shipping" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=E94560&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+AI+%26+Security+Engineer;Architecting+Federated+SSO+%26+Production+RAG+Pipelines;Python+%7C+C%2B%2B+%7C+Node.js+%7C+Always+Shipping" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -49,16 +47,16 @@ A production-grade **Redirect-Based Federated Single Sign-On** system for distri
 </td>
 <td width="50%">
 
-### 🤖 [AI RAG System](https://github.com/Eman-2211/AI_RAG)
-An end-to-end **Retrieval-Augmented Generation** app — upload any PDF, index it into vector chunks, and ask natural language questions. The system retrieves the most relevant context via cosine similarity and generates accurate answers through Groq's LLM.
+### ⚡ [RAG Chat Backend](https://github.com/Eman-2211/FAST_API)
+A production-style **Retrieval-Augmented Generation Chat API** built with FastAPI, Groq (Llama 3.3), ChromaDB, and Postgres. Upload PDF documents, then ask questions grounded strictly in their content — with persistent, multi-turn conversation memory.
 
 **Key Engineering:**
-- PDF text extraction & overlapping chunk splitting
-- Sentence-transformer embeddings stored in ChromaDB
-- Cosine similarity retrieval for relevant context injection
-- Groq LLM (Llama 3) for fact-grounded answer generation
+- Server-side multi-turn conversation history stored in Postgres
+- Follow-up aware retrieval — recent turns folded into search queries
+- Async non-blocking Groq calls with automatic cookie-based session tracking
+- Metadata-based document replacement on re-upload (no duplicates)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white)
 
 </td>
 </tr>
@@ -72,20 +70,30 @@ An end-to-end **Retrieval-Augmented Generation** app — upload any PDF, index i
 <tr>
 <td width="33%">
 
-### 📊 [GDP Analytics Engine](https://github.com/Eman-2211/Modular-Orchestration-and-Dependency-Inversion-Phase-2)
-Python-based data transformation & analytics engine for global GDP trends. 7+ analytical modules with plugin-based console & chart output.
+### 🤖 [AI RAG System](https://github.com/Eman-2211/AI_RAG)
+End-to-end RAG app — upload PDFs, index into vector chunks, and ask natural language questions. Cosine similarity retrieval + Groq LLM for fact-grounded answers.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white)
 
 </td>
 <td width="33%">
 
 ### 🎮 [Tetris-SFML](https://github.com/Eman-2211/Tetris-SFML)
-A classic Tetris game built **from scratch** in C++ using the SFML graphics library. Clean OOP design with distinct classes for grid, gameplay logic, and all 7 Tetromino block shapes.
+Classic Tetris built **from scratch** in C++ using SFML. Clean OOP design with distinct classes for grid, gameplay logic, and all 7 Tetromino block shapes. Custom audio & music.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
 
 </td>
+<td width="33%">
+
+### 📊 [GDP Analytics Engine](https://github.com/Eman-2211/Modular-Orchestration-and-Dependency-Inversion-Phase-2)
+Python data transformation & analytics engine for global GDP trends. 7+ analytical modules with plugin-based console & chart output.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
 <td width="33%">
 
 ### 📈 [Marketing ROI Predictor](https://github.com/Eman-2211/Performance-Marketing-ROI-Predictor)
@@ -94,28 +102,18 @@ ML-based performance marketing ROI prediction. Analyzes campaign data to predict
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="33%">
 
 ### 🧠 [AI Labs — Spring 2026](https://github.com/Eman-2211/AI-Labs-Spring26)
-Jupyter Notebooks implementing various AI/ML concepts — Data Preprocessing, EDA, and Classical ML algorithms (Classification, Regression).
+Jupyter Notebooks implementing AI/ML concepts — Data Preprocessing, EDA, and Classical ML algorithms (Classification, Regression).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
 <td width="33%">
 
-### ⚡ [RAG Chat Backend](https://github.com/Eman-2211/FAST_API)
-Production-style RAG API built with FastAPI, Groq, ChromaDB & Postgres. Features multi-turn conversations, server-side history, and grounded Q&A.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="33%">
-
 ### 👑 [8-Queens Solver](https://github.com/Eman-2211/8_Queen)
-Classic N-Queens problem solver using backtracking algorithms. Demonstrates algorithmic thinking and constraint satisfaction.
+Classic N-Queens problem solver using backtracking. Demonstrates algorithmic thinking and constraint satisfaction.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -247,14 +245,26 @@ Classic N-Queens problem solver using backtracking algorithms. Demonstrates algo
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Eman-2211">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emanjameel007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/Eman-Jameel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eman-2211&color=e94560&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
 </p>
